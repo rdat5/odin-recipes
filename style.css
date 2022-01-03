@@ -1,0 +1,22 @@
+/* style.css */
+h1 {
+    background-color: peachpuff;
+    text-align: center;
+}
+
+ul {
+    color: red;
+    text-align: center;
+}
+
+.lasagna {
+    color: red
+}
+
+.beps {
+    color: forestgreen;
+}
+
+.flan {
+    color: darkorange;
+}
